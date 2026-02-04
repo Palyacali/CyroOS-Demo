@@ -50,3 +50,5 @@ Kod snippet'i
 start cmd /k "cd CyroFlow_Engine && dotnet run"
 start cmd /k "cd CyroAuth_Service && dotnet run"
 start cmd /k "cd CyroNode_Monitor && dotnet run"
+
+NOT: DOSYA SAYISININ FAZLALIĞI SEBEBİ İLE .ZIP OLARAK YÜKLENMİŞTİR. KOPYALADIKTAN SONRA ÇIKARMANIZ YETMEKTEDİR.
